@@ -16,7 +16,7 @@ Roblox Trade Cancel is a python application that automates the process of declin
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/<your-github-username>/roblox-trade-cancel.git
+    git clone https://github.com/Sharmrock1/roblox-trade-cancel.git
     ```
 
 2. Enter your directory
